@@ -79,3 +79,7 @@ print('Total Tests:', str(hc_tests))
 print('Total Fallas:', str(hc_fallas))
 print('Total Errores:', str(hc_errores))
 print('Total Correctos:', str(hc_ok))
+
+
+print('Resultado de los Tests')
+print(resultado_test)
